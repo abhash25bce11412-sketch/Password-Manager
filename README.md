@@ -208,6 +208,11 @@ PasswordManager Class
 
 ## 📸 Screenshots
 
+<img width="590" height="406" alt="image" src="https://github.com/user-attachments/assets/d8f4a97a-fbc0-4dc0-8944-e8d10925eb2b" />
+<img width="502" height="298" alt="image" src="https://github.com/user-attachments/assets/4333b1b5-9461-4628-bda6-5ca77f4ed75c" />
+<img width="539" height="414" alt="image" src="https://github.com/user-attachments/assets/8e4d6cf2-ab1c-4ca8-9767-1a5f31817a87" />
+
+
 
 
 

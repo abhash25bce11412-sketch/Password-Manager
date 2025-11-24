@@ -1,25 +1,6 @@
 # 🔐 SecurePass Manager - Python Password Management System
 
-**Course:** [Insert Course Name]  
-**Academic Year:** [Insert Academic Year]  
-**Institution:** [Insert College Name]  
-**Submitted By:** [Your Name]  
-**University Roll No:** [Your Roll Number]  
-**Submitted To:** [Professor's Name]  
-**Date:** [Submission Date]
 
-## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Installation Guide](#installation-guide)
-- [How to Use](#how-to-use)
-- [Project Structure](#project-structure)
-- [Development Process](#development-process)
-- [Learning Outcomes](#learning-outcomes)
-- [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
-- [References](#references)
 
 ## 🎯 Project Overview
 
@@ -227,16 +208,9 @@ PasswordManager Class
 
 ## 📸 Screenshots
 
-*(Include actual screenshots in your submission)*
 
-### Main Menu Interface
-![Main Menu](screenshots/main_menu.png)
 
-### Password Addition
-![Add Password](screenshots/add_password.png)
 
-### Password Viewing
-![View Passwords](screenshots/view_passwords.png)
 
 ## 🔮 Future Enhancements
 
@@ -256,12 +230,7 @@ PasswordManager Class
 - [ ] Password breach monitoring
 - [ ] Advanced search capabilities
 
-## 📚 References
 
-### Academic References
-1. Stallings, W. *Cryptography and Network Security*
-2. Python Software Foundation. *Python Documentation*
-3. Cryptography.io Library Documentation
 
 ### Technical Resources
 - Python Official Documentation
@@ -277,21 +246,3 @@ PasswordManager Class
 ## 👨‍💻 About the Developer
 
 **Name:** [Your Name]  
-**Program:** [Your Program Name]  
-**Semester:** [Current Semester]  
-**University:** [Your University Name]  
-**Email:** [Your Email Address]  
-
----
-
-## 📄 Declaration
-
-I hereby declare that this project titled **"SecurePass Manager - Python Password Management System"** is my original work and has been developed as part of the course curriculum. All external sources and references have been duly cited.
-
-**Signature:** _________________________
-
-**Date:** _________________________
-
----
-
-*This project is submitted for partial fulfillment of the requirements for the course [Course Name] at [College Name].*

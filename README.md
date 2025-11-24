@@ -250,4 +250,5 @@ PasswordManager Class
 
 ## 👨‍💻 About the Developer
 
-**Name:** [Your Name]  
+**Name:** Abhash Pandey
+email id- abhash.25bce11412@vitbhopal.ac.in
